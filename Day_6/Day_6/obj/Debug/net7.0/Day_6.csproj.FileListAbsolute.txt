@@ -1,0 +1,15 @@
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\bin\Debug\net7.0\Day_6.exe
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\bin\Debug\net7.0\Day_6.deps.json
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\bin\Debug\net7.0\Day_6.runtimeconfig.json
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\bin\Debug\net7.0\Day_6.dll
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\bin\Debug\net7.0\Day_6.pdb
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.csproj.AssemblyReference.cache
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.AssemblyInfoInputs.cache
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.AssemblyInfo.cs
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.csproj.CoreCompileInputs.cache
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.dll
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\refint\Day_6.dll
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.pdb
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\Day_6.genruntimeconfig.cache
+G:\My Drive\_work\_Advent_of_Code_2022\Day_6\Day_6\obj\Debug\net7.0\ref\Day_6.dll
